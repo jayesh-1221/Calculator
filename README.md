@@ -1,2 +1,2 @@
 # Calculator
-Simple Culculator For daily calculations
+Simple Calculator For daily calculations
